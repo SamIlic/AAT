@@ -1,2 +1,2 @@
 # Algorithmic-Trading
-Scripts and Examples from Advanced Algorithmic Trading. 
+Scripts for poplar Algorithmic Trading techniques/methods. 
