@@ -1,2 +1,2 @@
 # Algorithmic-Trading
-Scripts for poplar Algorithmic Trading techniques/methods. 
+Scripts for popular Algorithmic Trading techniques/methods. 
